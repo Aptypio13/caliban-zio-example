@@ -7,6 +7,7 @@
 To start the application, you must be installed locally Java and SBT.
 The application uses Postgresql database.
 After launch, the application will be available at localhost:8080. 
+
 ---
 **Sources**
 
